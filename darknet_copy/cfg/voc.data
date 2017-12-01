@@ -1,0 +1,6 @@
+classes= 20
+train  = /Users/yawensun/darknet/train.txt
+valid  = /Users/yawensun/darknet/2007_test.txt
+names = data/voc.names
+backup = backup
+

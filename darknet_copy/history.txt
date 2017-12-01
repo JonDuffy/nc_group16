@@ -1,0 +1,500 @@
+    5  git clone https://github.com/pjreddie/darknet.git
+    6  cd ..
+    7  git clone https://github.com/allanzelener/yad2k.git
+    8  cd yad2k
+    9  conda env create -f environment.yml
+   10  source activate yad2k
+   11  pip install numpy h5py pillow
+   12  pip install tensorflow-gpu
+   13  pip install keras
+   14  wget http://pjreddie.com/media/files/yolo.weights
+   15  wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolo.cfg
+   16  ./yad2k.py yolo.cfg yolo.weights model_data/yolo.h5
+   17  ./test_yolo.py model_data/yolo.h5 
+   18  clear
+   19  ./yad2k.py yolo.cfg yolo.weights model_data/yolo.h5
+   20  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   21  brew help
+   22  cd /etc/bashrc
+   23  cd etc/bashrc
+   24  ./yad2k.py yolo.cfg yolo.weights model_data/yolo.h5
+   25  python yad2k.py
+   26  pip3 install tensorflow-gpu
+   27  python
+   28  brew install bazel
+   29  python
+   30  python
+   31  python -c 'import tensorflow as tf'
+   32  sudo python
+   33  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   34  brew help
+   35  brew update
+   36  brew upgrade
+   37  brew install coreutils
+   38  brew install bazel
+   39  bazel version
+   40  conda update anaconda3
+   41  python
+   42  vim .bash_profile
+   43  ls
+   44  vim .bash_profile
+   45  ls
+   46  cd /usr/local
+   47  cls
+   48  ls
+   49  cd cuba
+   50  sudo cd cuda
+   51  sudo cp lib* /usr/local/cuda/lib
+   52  sudo cp cudnn.h /usr/local/cuda/include/
+   53  cp -r /usr/local/cuda/samples ~/cuda-samples
+   54  pushd ~/cuda-samples
+   55  ls
+   56  make
+   57  /Developer/NVIDIA/CUDA-9.0/lib/libcuinj.9.0.dylib ; exit;
+   58  cd /usr/local
+   59  cd cida
+   60  cd cuda
+   61  ls
+   62  cp -r /usr/local/cuda/samples ~/cuda-samples
+   63  pushd ~/cuda-samples
+   64  make
+   65   cd /Users/yawensun
+   66  ls
+   67  cd Downloads/
+   68  ls
+   69  cd cuda
+   70  sudo cp lib* /usr/local/cuda/lib
+   71  cd Users/yawensun
+   72  cd Desktop/
+   73  cd ..
+   74  cd Downloads/
+   75  sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
+   76  sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
+   77  sudo ln -s /usr/local/cuda/lib /usr/local/cuda/lib64
+   78  cp cudnn.h /usr/local/cuda/include/
+   79  cp -r /usr/local/cuda/samples ~/cuda-samples
+   80  sudo cp -r /usr/local/cuda/samples ~/cuda-samples
+   81  sudo pushd ~/cuda-samples
+   82  cd /usr/loacl/cuda
+   83  /usr/local/cuda
+   84  cd /usr/local/cuda
+   85  ls
+   86  pushd ~/cuda-samples
+   87  pushd ~/cuda-samples
+   88  ls
+   89  make
+   90  popd
+   91  ~/cuda-samples/bin/x86_64/darwin/release/deviceQuery
+   92  ~/cuda-samples/bin/x86_64/darwin/release/deviceQuery
+   93  ~/cuda-samples/bin/x86_64/darwin/release/deviceQuery
+   94  make
+   95  cd .
+   96  cd ..
+   97  ls
+   98  cd /usr/local/cuda
+   99  ls
+  100  /usr/local/cuda/samples/bin/x86_64/darwin/release/deviceQuery
+  101  sudo make -C 1_Utilities/deviceQuery
+  102  sudo easy_install pip
+  103  sudo easy_install --upgrade six
+  104  export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.11.0rc0-py2-none-any.whl
+  105  sudo pip install --upgrade $TF_BINARY_URL
+  106  conda create -n tensorflow scikit-learn
+  107  source activate tensorflow
+  108  curl https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.11.0rc0-py2-none-any.whl --output tensorflow-0.11.0rc0-py2-none-any.whl
+  109  pip install tensorflow-0.11.0rc0-py2-none-any.whl
+  110  curl https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.11.0rc0-py2-none-any.whl
+  111  curl https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.11.0rc0-py2-none-any.whl --output tensorflow-0.11.0rc0-py2-none-any.whl
+  112  source activate tensorflow
+  113  python
+  114  pip3 -V
+  115  sudo easy_install --upgrade pip
+  116  sudo easy_install --upgrade six
+  117  pip3 install tensorflow 
+  118  python
+  119  su root
+  120  sudo easy_install pip
+  121  sudo easy_install --upgrade six
+  122  pip install tensorflow
+  123  sudo pip3 install --upgrade $TF_BINARY_URL
+  124  export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
+  125  export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow_gpu-1.0.0-py3-none-any.whl
+  126  sudo pip3 install --upgrade $TF_BINARY_URL
+  127  python
+  128  ;
+  129  cd ..
+  130  a.h
+  131  ls
+  132  cd Downloads/
+  133  ls
+  134  bash Anaconda3-5.0.1-MacOSX-x86_64.pkg 
+  135  cd /usr/local
+  136  ls
+  137  cd /Users/yawensun/
+  138  cd darknet
+  139  ls
+  140  cd yad2k
+  141  ./yad2k.py yolo.cfg yolo.weights model_data/yolo.h5
+  142  pip install numpy h5py pillow
+  143  pip install tensorflow-gpu  
+  144  pip install keras
+  145  ./yad2k.py yolo.cfg yolo.weights model_data/yolo.h5
+  146  ./test_yolo.py model_data/yolo.h5 
+  147  python
+  148  cd Download
+  149  cd ..
+  150  cd ..
+  151  cd ..
+  152  cd yawensun
+  153  cd Downloads/
+  154  ls
+  155  bash
+  156  cd darknet
+  157  git clone --recurse-submodules https://github.com/tensorflow/tensorflow
+  158  sudo apt-get install pkg-config zip g++ zlib1g-dev unzip
+  159  sudo install pkg-config zip g++ zlib1g-dev unzip
+  160  sudo brew install pkg-config zip g++ zlib1g-dev unzip
+  161  ruby -e “$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)”
+  162  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+  163  sudo apt-get update
+  164  sudo brew update
+  165  brew install pkg-config zip g++ zlib1g-dev unzip
+  166  install pkg-config zip g++ zlib1g-dev unzip
+  167  brew install pkg-config zip g++ zlib1g-dev unzip
+  168  brew install openjdk-8-jdk
+  169  python 
+  170  sudo easy_install pip
+  171  sudo easy_install --upgrade six
+  172   sudo pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0-py2-none-any.whl
+  173  pip uninstall tensorflow
+  174  pip uninstall protobuf
+  175  python
+  176   pip3 -V
+  177  sudo easy_install --upgrade pip
+  178  sudo easy_install --upgrade six
+  179   pip3 install tensorflow  
+  180  python
+  181  sudo pip3 install --upgrade tfBinaryURL
+  182  $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.10.0-py3
+  183  export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/gpu/tensorflow-0.10.0-py3
+  184  sudo pip3 install --upgrade $TF_BINARY_URL
+  185  sudo pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc0-py3-none-any.whl
+  186  python
+  187  ls
+  188  cd yad2k
+  189  ls
+  190  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  191  cmake .. && make
+  192  cmake .. && make
+  193  conda env create -f environment.yml
+  194  source activate yad2k
+  195  pip install numpy
+  196  作者：洛荷
+  197  链接：http://www.jianshu.com/p/3e77cefeb49b
+  198  來源：简书
+  199  著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+  200  pip install tensorflow-gpu  # CPU-only: conda install -c conda-forge tensorflow
+  201  pip install keras # Possibly older release: conda install keras
+  202  作者：洛荷
+  203  链接：http://www.jianshu.com/p/3e77cefeb49b
+  204  來源：简书
+  205  著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+  206  pip install tensorflow-gpu  
+  207  python
+  208  conda env create -f environment.yml
+  209  source activate yad2k
+  210  pip install numpy
+  211  pip install tensorflow-gpu
+  212  pip uninstall tensorflow
+  213  pip uninstall tensorflow
+  214  pip uninstall protobuf
+  215  python
+  216   conda install -c conda-forge tensorflow
+  217  conda install keras
+  218  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  219  产的darknet
+  220  cd darknet
+  221  ls
+  222  cd yad2k
+  223  ls
+  224  python -version
+  225  python
+  226  pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/protobuf-3.1.0-cp35-none-macosx_10_11_x86_64.whl
+  227  python --version
+  228  sudo pip install keras
+  229  python
+  230  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  231  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  232  pip3 install tensorflow-gpu
+  233  pip3 uninstall tensorflow
+  234  pip uninstall tensorflow
+  235  python 
+  236  sudo pip uninstall tensorflow   
+  237  python 
+  238  sudo pip uninstall tensorflow   
+  239  sudo pip3 uninstall tensorflow   
+  240  pip3 installl tensorflow-gpu
+  241  pip3 install tensorflow-gpu
+  242  sudo pip3 install tensorflow-gpu
+  243  pip3 install keras
+  244  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  245  python
+  246  sudo pip3 install keras
+  247  pip3 uninstall keras
+  248  sudo pip3 install keras
+  249  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  250  sudo pip3 install Theano
+  251  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  252  sudo pip3 install numpy
+  253  import theano
+  254  python
+  255  ipython
+  256  pip3 uninstall tensorflow-gpu
+  257  sudo uninstall tensorflow-gpu
+  258  sudo pip3 uninstall tensorflow-gpu
+  259  sudo pip3 install tensorflow
+  260  conda install -c conda-forge tensorflow
+  261  sudo pip3 uninstall tensorflow
+  262  pip3 install numpy
+  263  sudo conda install -c conda-forge tensorflow
+  264  pip3 uninstall keras
+  265  sudo pip3 uninstall keras
+  266  sudo conda install keras
+  267  sudo ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  268  sudo ./test_yolo.py model_data/yolo.h5
+  269  ls
+  270  cd model_data/
+  271  vi yolo.h5
+  272  sudo ./test_yolo.py model_data/yolo.h5
+  273  ./test_yolo.py model_data/yolo.h5
+  274  cd ..
+  275  ./test_yolo.py model_data/yolo.h5
+  276  ./test_yolo.py model_data/yolo.h5
+  277  whoami
+  278  sudo chown -R yawensun:staff images 
+  279  ./test_yolo.py model_data/yolo.h5
+  280  ./test_yolo.py model_data/yolo.h5
+  281  cd /Users/yawensun/darknet/
+  282  ls
+  283  python file_parser.py
+  284  python file_parser.py
+  285  python file_parser.py
+  286  python file_parser.py
+  287  python file_parser.py
+  288  python file_parser.py
+  289  python file_parser.py
+  290  python file_parser.py
+  291  python file_parser.py
+  292  python file_parser.py
+  293  python file_parser.py
+  294  python file_parser.py
+  295  python file_parser.py
+  296  python file_parser.py
+  297  python file_parser.py
+  298  python file_parser.py
+  299  python file_parser.py
+  300  python file_parser.py
+  301  python file_parser.py
+  302  python file_parser.py
+  303  python file_parser.py
+  304  python file_parser.py
+  305  python file_parser.py
+  306  python file_parser.py
+  307  python file_parser.py
+  308  python file_parser.py
+  309  python file_parser.py
+  310  python file_parser.py
+  311  python file_parser.py
+  312  python file_parser.py
+  313  python file_parser.py
+  314  python file_parser.py
+  315  python file_parser.py
+  316  python file_parser.py
+  317  python file_parser.py
+  318  python file_parser.py
+  319  python file_parser.py
+  320  python file_parser.py
+  321  python file_parser.py
+  322  python file_parser.py
+  323  python file_parser.py
+  324  python file_parser.py
+  325  python file_parser.py
+  326  python file_parser.py
+  327  python file_parser.py
+  328  python file_parser.py
+  329  python file_parser.py
+  330  python file_parser.py
+  331  python file_parser.py
+  332  python file_parser.py
+  333  python file_parser.py
+  334  python file_parser.py
+  335  python file_parser.py
+  336  python file_parser.py
+  337  python file_parser.py
+  338  python file_parser.py
+  339  python file_parser.py
+  340  python file_parser.py
+  341  python file_parser.py
+  342  python file_parser.py
+  343  python file_parser.py
+  344  python file_parser.py
+  345  python file_parser.py
+  346  python file_parser.py
+  347  python file_parser.py
+  348  python file_parser.py
+  349  python file_parser.py
+  350  python file_parser.py
+  351  python file_parser.py
+  352  python file_parser.py
+  353  python file_parser.py
+  354  python file_parser.py
+  355  python file_parser.py
+  356  python file_parser.py
+  357  python file_parser.py
+  358  python voc_label.py 
+  359  python voc_label.py 
+  360  python voc_label.py 
+  361  python voc_label.py 
+  362  python voc_label.py 
+  363  python voc_label.py 
+  364  ls /Users/yawensun/darknet/VOCdevkit/VOC2007/JPEGImages/ | test_files.txt
+  365  ls /Users/yawensun/darknet/VOCdevkit/VOC2007/JPEGImages > test_files.txt
+  366  find "$(pwd)" > test_files.txt 
+  367  find "$(/Users/yawensun/darknet/VOCdevkit/VOC2007/JPEGImages/)" > test_files.txt 
+  368  find "$(/Users/yawensun/darknet/VOCdevkit/VOC2007/JPEGImages)" > test_files.txt 
+  369  find /Users/yawensun/darknet/VOCdevkit/VOC2007/JPEGImages > test_files.txt 
+  370  find /Users/yawensun/Desktop/NCData/train/ > test_files.txt 
+  371  find /Users/yawensun/Desktop/NCData/train > test_files.txt 
+  372  find /Users/yawensun/Desktop/NCData/train/*.txt > test_files.txt 
+  373  find "/Users/yawensun/Desktop/NCData/train/*.txt" > test_files.txt 
+  374  find '/Users/yawensun/Desktop/NCData/train/*.txt' > test_files.txt 
+  375  find /Users/yawensun/Desktop/NCData/train > test_files.txt 
+  376  find '/Users/yawensun/Desktop/NCData/train/*.txt' > test_files.txt sed -i '.jpg' test_files.txt 
+  377  find '/Users/yawensun/Desktop/NCData/train/*.txt' > test_files.txt sed -ie '.jpg' test_files.txt 
+  378  sed -ie '.jpg' test_files.txt 
+  379  sed -ie ".jpg" test_files.txt 
+  380  find /Users/yawensun/Desktop/NCData/train > test_files.txt 
+  381  sed -ie ".jpg" test_files.txt 
+  382  sed -ie "jpg" test_files.txt 
+  383  awk "jpg" test_files.txt 
+  384  find -name /Users/yawensun/Desktop/NCData/train "*.txt" > test_files.txt 
+  385  awk 'NR%2==0' test_files.txt files.txt
+  386  awk 'NR%2==0' test_files.txt > files.txt
+  387  find /Users/yawensun/Desktop/NCData/train > test_files.txt 
+  388  awk 'NR%2==0' test_files.txt > files.txt
+  389  python voc_label.py 
+  390  python voc_label.py 
+  391  python voc_label.py 
+  392  python voc_label.py 
+  393  ls /Users/yawensun/Desktop/NCData/train/ > train.txt
+  394  python voc_label.py 
+  395  python voc_label.py 
+  396  awk 'NR%2==0' train.txt > train.txt
+  397  python voc_label.py 
+  398  ls > train.txt 
+  399  ls /Users/yawensun/Desktop/NCData/train/> train.txt 
+  400  awk 'NR%2==0' train.txt > train.txt
+  401  awk 'NR%2==0' train.txt > train_2.txt
+  402  python voc_label.py 
+  403  python voc_label.py 
+  404  python --v
+  405  python -v
+  406  python --version
+  407  python voc_label.py 
+  408  python voc_label.py 
+  409  ./darknet detect cfg/yolo.cfg yolo.weights data/2007_000027.jpg
+  410  ./darknet detect cfg/yolo.cfg yolo.weights data/dog.jpg
+  411  ./darknet detect cfg/yolo.cfg yolo.weights data/horse.jpg
+  412  ./darknet detect cfg/yolo.cfg yolo.weights data/eagle.jpg
+  413  ./darknet detect cfg/yolo.cfg yolo.weights data/scream.jpg
+  414  ./darknet detect cfg/yolo.cfg yolo.weights data/2007_000042.jpg
+  415  ./darknet detect cfg/yolo.cfg yolo.weights data/2008_000007.jpg
+  416  ./darknet detect cfg/yolo.cfg yolo.weights data/2008_000002.jpg
+  417  ls -al
+  418  ls
+  419  sudo chown -R yawensun:staff images
+  420  sudo chown -R yawensun:staff 
+  421  ls
+  422  sudo chown -R yawensun:staff darnet
+  423  sudo chown -R yawensun:staff darknet
+  424  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  425  cd /Users/yawensun/darknet/yad2k
+  426  ./yad2k.py cfg/yolo.cfg yolo.weights model_data/yolo.h5
+  427  ./test_yolo.py model_data/yolo.h5
+  428  ./test_yolo.py model_data/yolo.h5
+  429  ls
+  430  git clone https://github.com/SidHard/py-yolo2.git
+  431  ls
+  432  cd py-yolo2/
+  433  cmake .. && make
+  434  cd ..
+  435  ls
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd yad2k
+  440  /Users/yawensun/darknet/yad2k11/py-yolo2 
+  441  cmake .. && make
+  442  cmake .. && make
+  443  cmake .. && make
+  444  yolo.py
+  445  python yolo.py
+  446  python yolo.py
+  447  ls
+  448  git clone https://github.com/SidHard/py-yolo2.git
+  449  cmake .. && make
+  450  cmake .. && make
+  451  cmake .. && make
+  452  cd py-yolo2/
+  453  cmake .. && make
+  454  cd ..
+  455  cd py-yolo2/
+  456  cmake .. && make
+  457  cmake .. && make
+  458  cd ..
+  459  cmake .. && make
+  460  sudo chown -R yawensun:staff darknet
+  461  cd darknet
+  462  ls
+  463  cd yad2k/
+  464  ls
+  465  cd py-yolo2/
+  466  ls
+  467  cmake .. && make
+  468  cmake .. && make
+  469  cd ..
+  470  ls
+  471  cd yad2k
+  472  ls
+  473  cd ..
+  474  ls
+  475  cd /Users/yawensun/darknet
+  476  ls
+  477  cmake .. && make
+  478  cd py-yolo2/
+  479  cmake .. && make
+  480  cmake .. && make
+  481  cd ..
+  482  ls
+  483  cd yad2k
+  484  ls
+  485  cmake .. && make
+  486  ls
+  487  git clone https://github.com/SidHard/py-yolo2.git
+  488  ls
+  489  cd py-yolo2/
+  490  cmake .. && make
+  491  cmake .. && make
+  492  ls
+  493  python yolo.py
+  494  python yolo.py
+  495  pip3 install cStringIO
+  496  pip3 install cStringIO
+  497  python yolo.py
+  498  python yolo.py
+  499  python yolo.py
+  500  make derector
+  501  cd /Users/yawensun/darknet
+  502  ls
+  503    ./darknet detect cfg/yolo.cfg yolo.weights data/2007_000042.jpg
+  504  history > history.txt
