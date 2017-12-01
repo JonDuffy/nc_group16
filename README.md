@@ -20,3 +20,6 @@ TO DO:
 4.b. Different optimization algorithms (GD with Momentum, GD with Nesterov Momentum, AdaGrad, Adam etc.)
 
 4.c. Different topology e.g. Convolutional Neural Networks
+
+
+I want pizza </3
