@@ -8,8 +8,7 @@ DONE SO FAR:
 2. Altered code to read our inputs.
 3. Applied a pretrained network to a test image (output as a .png)
 
-
-TO DO:
+TO DO (CHANGE BY ED):
 1. Output files into the correct format of a single .txt file.
 2. Implement all the code into python if possible.
 3. Generate report on findings on a jupyter notebook
